@@ -20,7 +20,7 @@ visible: true
 ### PWN-Term 2.2.2
 
 ##### Downloads
-* [Mirror-1](http://martiniweb.epizy.com/releases/2.2.2.apk)
+* [Mirror-1](https://raw.githubusercontent.com/PWN-Term/wiki/main/files/2.2.2.apk)
 * [Mirror-2](https://anonfiles.com/N7o1b500uc/2.2.2_apk)
 
 ##### Requirements
