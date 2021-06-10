@@ -13,9 +13,9 @@ visible: true
 ## Here you can find some guides for PWN-Term
 
 ### Pages
-* [Installing](https://pwn-term.github.io/wiki/installing)
-* [Other](https://pwn-term.github.io/wiki/other)
-* [Releases](https://pwn-term.github.io/wiki/blog/rekeases)
+* [Installing](https://pwn-term.github.io/wiki/installing/default.html)
+* [Other](https://pwn-term.github.io/wiki/other/default.html)
+* [Releases](https://pwn-term.github.io/wiki/blog/rekeases/blog.html)
 
 ### Community channel
 * Telegram app is needed to join + App releases are posted there only
