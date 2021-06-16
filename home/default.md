@@ -26,6 +26,9 @@ visible: true
 * [Neternels](https://t.me/neternels_chat)
 * [Team420](https://t.me/team420nethunter)
 
+### Big thanks for
+* ImKiva : @imkiva
+
 ### Developers / Contributors
 * Martin Välba : @hilledkinged
 * Ankush Bhagat: @ankushbhagatofficial
