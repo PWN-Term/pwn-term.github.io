@@ -13,6 +13,10 @@ title: Docker
 * Unified_op7 | [Kernel](https://github.com/neternels/android_kernel_oneplus_sm8150/releases/tag/NetErnels-6.0)
 * Lancelot | [Kernel](https://github.com/neternels/NetHunter-Lancelot/releases/tag/v3.0)
 
+### To enable docker support in kernel read this guide
+
+* [Guide](https://cybernity.group/t/how-to-add-docker-support-on-android/587)
+
 ### Installation
 #### Getting packages
 
