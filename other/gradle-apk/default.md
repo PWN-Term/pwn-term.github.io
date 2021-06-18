@@ -2,10 +2,10 @@
 title: 'Build apk with gradle'
 ---
 
-### Compiling APK's with gradle
+### Compiling APKs with gradle
 
 #### README
-* Gradle can only use android-build-tools version 29.0.3 as this is only one that works for now.
+* Gradle can only use android-build-tools version 29.0.3 as this is the only one that works for now.
 
 #### Adding canary repo (As its beta feature still)
 1. Open "package settings" menu

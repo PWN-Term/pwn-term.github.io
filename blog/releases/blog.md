@@ -20,7 +20,7 @@ visible: true
 ### PWN-Term 2.2.2
 
 ##### Downloads
-* [Mirror-1](https://raw.githubusercontent.com/PWN-Term/wiki/main/files/2.2.2.apk)
+* [Mirror-1](https://raw.githubusercontent.com/PWN-Term/pwn-term.github.io/main/files/2.2.2.apk)
 * [Mirror-2](https://anonfiles.com/N7o1b500uc/2.2.2_apk)
 
 ##### Requirements
@@ -30,12 +30,12 @@ visible: true
 ##### Important
 * This release requires clean install, so backup needed stuff to /sdcard/somewhere and move back after install
 * This happened because i have used debug keys to make releases (This wont happen again, sorry)
-* Beside rooted users can overcome it by renaming /data/data/hilled.pwnterm to something else until new app is installed (And changing it back after new app install)
+* Rooted users can overcome it by renaming /data/data/hilled.pwnterm to something else until new app is installed (And changing it back after new app install)
 
 ##### Notes!!!
 * NEEDS CLEAN INSTALL (As debug keys changed)
-* In android Q+ you may need root perm to use "setenforce 0" (Only if terminal cant satrt up)
-* To apply update for older scripts (As app wont update these automatically), do the following
+* In android Q+ you may need root perm to use "setenforce 0" (Only if terminal cant start up)
+* To apply update for older scripts (As app won't update these automatically), do the following
 rm -rf /data/data/hilled.pwnterm/files/home/.pwnterm/script/*
 * And restart the app fully (Force stop)
 

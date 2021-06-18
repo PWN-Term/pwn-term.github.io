@@ -11,7 +11,7 @@ title: 'Installing Metasploit'
 ```
 apt update && apt install apt install -y metasploit-framework
 ```
-* If it asks for credentials then you can leave username as you like put give it a 6+ char password so the db init wont fail.
+* If it asks for credentials then you can leave username as you like put give it a 6+ char password so the db init won't fail.
 
 #### Common problems and fixes
 ##### msfdb database wont work

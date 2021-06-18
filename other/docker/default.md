@@ -21,7 +21,7 @@ $ apt install docker
 ```
 
 #### Root user bash
-* so sudo dosent need to be used
+* so sudo doesn't need to be used
 
 ```
 $ clear && sudo bash
@@ -46,7 +46,7 @@ $ dockerd &>/dev/null &
 * Pulling Alpine
 
 ```
-$ dokcer pull arm64v8/alpine
+$ docker pull arm64v8/alpine
 ```
 
 * Logging into session (All changes will be reverted after rerunning new run)
@@ -89,7 +89,7 @@ $ sudo docker run -i --tty --net=host alpine1
 
 ```
 * And youre done
-* It can be reddone for committed container for further changes
+* It can be redone for committed container for further changes
 
 #### Removing commit containers/images
 * List current images (Also copy IMAGE_ID)

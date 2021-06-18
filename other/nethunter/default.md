@@ -5,7 +5,7 @@ title: NetHunter
 ## NetHunter + PWN-Term
 ### Requirements
 * PWN-Term (2.1.4 or better, available at telegram)
-* Apt  repo on (Rolling)
+* Apt repo on (Rolling)
 
 ### Installation
 #### Uninstalling old nhapps

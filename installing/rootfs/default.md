@@ -10,7 +10,7 @@ title: 'Installing RootFS'
 
 #### 2.1.6 and newer
 ##### Getting apk
-* You can get apk from [PWN-Term](http://martiniweb.epizy.com/blog/releases)
+* You can get apk from [PWN-Term](http://pwn-term.github.io/blog/releases/blog.html)
 
 #### Installing
 ##### Online variant
