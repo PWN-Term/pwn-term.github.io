@@ -50,13 +50,13 @@ $ dockerd &>/dev/null &
 * Pulling Alpine
 
 ```
-$ docker pull arm64v8/alpine
+$ docker pull arm64v8/debian
 ```
 
 * Logging into session (All changes will be reverted after rerunning new run)
 
 ```
-$ sudo docker run -i --tty --network host arm64v8/alpine
+$ sudo docker run -i --tty --network host arm64v8/debian
 ```
 * Allowing internet access (Android 10+)
 * Log into docker image and run
@@ -70,7 +70,7 @@ $ groupadd -g 3003 aid_inet && usermod -G nogroup -g aid_inet _apt
 * Starting docker image and logging in to make changes
 
 ```
-$ sudo docker run -i --tty --network host arm64v8/alpine
+$ sudo docker run -i --tty --network host arm64v8/debian
 
 $ groupadd -g 3003 aid_inet && usermod -G nogroup -g aid_inet _apt
 
@@ -84,12 +84,12 @@ $ docker ps -l
 ```
 
 * Making new commit and starting commited container
-* alpine1 will be new container name (As its easy to remember)
+* debian1 will be new container name (As its easy to remember)
 
 ```
-$ docker commit ID_HERE alpine1
+$ docker commit ID_HERE debian1
 
-$ sudo docker run -i --tty --net=host alpine1
+$ sudo docker run -i --tty --net=host debian1
 
 ```
 * And youre done

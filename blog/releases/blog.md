@@ -17,10 +17,12 @@ show_sidebar: true
 visible: true
 ---
 
+----
+
 ### PWN-Term 2.2.2
 
 ##### Downloads
-* [Mirror-1](https://raw.githubusercontent.com/PWN-Term/pwn-term.github.io/main/files/2.2.2.apk)
+* [Mirror-1](https://github.com/PWN-Term/pwn-term.github.io/releases/download/2.2.2/2.2.2.apk)
 * [Mirror-2](https://anonfiles.com/N7o1b500uc/2.2.2_apk)
 
 ##### Requirements
@@ -44,3 +46,5 @@ rm -rf /data/data/hilled.pwnterm/files/home/.pwnterm/script/*
 * Fixed some UI problems
 * Changed some colors
 * More session menu changes
+
+----
