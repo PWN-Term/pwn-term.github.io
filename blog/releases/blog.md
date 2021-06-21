@@ -22,7 +22,7 @@ visible: true
 ### PWN-Term 2.2.3
 
 ##### Downloads
-* [Mirror-1](https://github.com/PWN-Term/pwn-term.github.io/releases/download/2.2.3/2.2.3.apk)
+* [Mirror-1](https://github.com/PWN-Term/PWN-Term/releases/download/v2.2.3/2.2.3.apk)
 
 ##### Requirements
 * ARM64
@@ -49,7 +49,6 @@ visible: true
 ### PWN-Term 2.2.2
 
 ##### Downloads
-* [Mirror-1](https://github.com/PWN-Term/pwn-term.github.io/releases/download/2.2.2/2.2.2.apk)
 * [Mirror-2](https://anonfiles.com/N7o1b500uc/2.2.2_apk)
 
 ##### Requirements
