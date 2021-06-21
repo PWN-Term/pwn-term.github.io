@@ -19,6 +19,33 @@ visible: true
 
 ----
 
+### PWN-Term 2.2.3
+
+##### Downloads
+* [Mirror-1](https://github.com/PWN-Term/pwn-term.github.io/releases/download/2.2.3/2.2.3.apk)
+
+##### Requirements
+* ARM64
+* Android sdk-26+ (android 8.0)
+
+##### Important
+* This release requires clean install, so backup needed stuff to /sdcard/somewhere and move back after install
+* This happened because i have used debug keys to make releases (This wont happen again, sorry)
+* Rooted users can overcome it by renaming /data/data/hilled.pwnterm to something else until new app is installed (And changing it back after new app install)
+
+##### Notes!!!
+* In android Q+ you may need root perm to use "setenforce 0" (Only if terminal cant start up)
+* And restart the app fully (Force stop)
+
+##### Changelog (App)
+* Added more themes
+* Added some new features to menu
+* Changes for UI
+* Fixed some UI problems
+* Changed some colors
+
+----
+
 ### PWN-Term 2.2.2
 
 ##### Downloads
