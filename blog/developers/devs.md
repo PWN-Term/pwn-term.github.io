@@ -10,7 +10,7 @@ visible: true
 * For base app called Neo-Term
 
 ### Andrax
-* For some reused code | Lost in un-authored commit
+* For some reused code: Lost in un-authored commit
 
 ### Martin Valba / @hilledkinged | Owner
 * PWN-Term
@@ -20,11 +20,10 @@ visible: true
 ### Ankush Bhagat / @ankushbhagatofficial
 * App / Organization logo
 * PWN-Term startup logo
-* Rfetch | In base package
+* Rfetch
 * PSF-Tool
 
 ### cyberknight777 / @cyberknight777
-* Wiki | Contributor
-* TSF-Tool | Upcoming tool
+* Wiki
 * Packages
 * Apt-repo
