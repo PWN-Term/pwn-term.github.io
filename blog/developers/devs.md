@@ -27,3 +27,11 @@ visible: true
 * Wiki
 * Packages
 * Apt-repo
+
+## List of people / helpers that pointed out things that are implemented now
+
+### Suman Kumar / @Suman_bhutuu
+* Metasploit-framework: Pointed out a bundle config to be used for nokogiri issue
+
+### Ivan D / @b1ack_m3sa
+* Openjdk-jdk11 / Apktool: Pointed out export that may fixed issue with apktool
