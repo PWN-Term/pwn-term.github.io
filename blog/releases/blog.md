@@ -19,10 +19,18 @@ visible: true
 
 ----
 
-### PWN-Term 2.2.3
+### PWN-Term 2.2.4
 
-##### Downloads
-* [Mirror-1](https://github.com/PWN-Term/PWN-Term/releases/download/v2.2.3/2.2.3.apk)
+#### Downloads
+##### ROOT \ LATEST
+* [ROOT: Variant](https://github.com/PWN-Term/PWN-Term/releases/download/v2.2.3/2.2.3.apk)
+
+* Why: Root variant is available as of changes in api 29+. Apps using api level newer than 28 have issues with exec*, meaning root is used to change SELinux status so exec* can be used again (enforcing -> permissive).
+
+##### NON-ROOT \ LEGACY
+* [NON-ROOT: Variant](https://github.com/PWN-Term/PWN-Term/releases/download/v2.2.3/2.2.3.apk)
+* WHY: This release is here as this app is built with api level of 28 (Meaning exec* can be used), but - is that this app dosent use newest plugins that need api level greater than 30.
+* Tradeoffs?: Older app but apt repo is same with root variant
 
 ##### Requirements
 * ARM64

@@ -7,20 +7,10 @@ title: 'Desktop environemnt'
 #### Video guides
 * [XFCE4](https://www.youtube.com/watch?v=txwhuV-iLsk)
 #### Installing vnc server
-* Required: canary repo!!!
 ```
-apt update && apt install aterm xorg-twm tigervnc
+apt update && apt install tigervnc
 ```
 #### Setting up vnc server
-##### Stock termux xstartup
-* Installing packages
-```
-apt update && apt install aterm xorg-twm
-```
-* Starting vncserver
-```
-vncserver
-```
 ##### XFCE4
 ###### Installing packages
 ```
