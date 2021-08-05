@@ -1,12 +1,5 @@
 ---
 title: Home
-body_classes: 'title-center title-h1h2'
-dateformat: 'd-m-Y H:i'
-process:
-    markdown: true
-    twig: true
-cache_enable: false
-visible: true
 ---
 
 # Hello and welcome

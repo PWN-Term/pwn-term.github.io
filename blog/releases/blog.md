@@ -1,20 +1,5 @@
 ---
 title: releases
-content:
-    items:
-        - '@self.children'
-    limit: 5
-    order:
-        by: date
-        dir: desc
-    pagination: true
-    url_taxonomy_filters: true
-published: true
-date: '07-06-2021 15:39'
-publish_date: '07-06-2021 15:39'
-blog_url: /blog
-show_sidebar: true
-visible: true
 ---
 
 ----
