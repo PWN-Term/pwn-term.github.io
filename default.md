@@ -26,3 +26,4 @@ visible: true
 * Modified kernels are recommended that have System V and etc support. So here will be some channels that may have kernels for your particular device
 * [Neternels](https://t.me/neternels_chat)
 * [Team420](https://t.me/team420nethunter)
+

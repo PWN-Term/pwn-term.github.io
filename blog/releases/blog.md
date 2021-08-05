@@ -18,67 +18,34 @@ visible: true
 ---
 
 ----
+### PWN-Term Variants
+* Everything here are compared against android-11 execpt Legacy that is built for android-8
 
-### PWN-Term 2.2.4
+* Variants with info
+    - Legacy: Older version of app that is build against android-8 meaning it will have cmd exec*() available with tradeoff ( Older plugins used)
+    - Root: Newer app build against android-11 with usage of root to enable exec*() but with a tradeoff ( SELinux needs to be in permissive all the times )
+    - PWN-OS: Uses Root variant of app + Customized aosp where SELinux restrictions have been disabled for execmod and some other stuff.
 
-#### Downloads
-##### ROOT \ LATEST
-* [ROOT: Variant](https://github.com/PWN-Term/PWN-Term/releases/download/v2.2.3/2.2.3.apk)
+---
 
-* Why: Root variant is available as of changes in api 29+. Apps using api level newer than 28 have issues with exec*, meaning root is used to change SELinux status so exec* can be used again (enforcing -> permissive).
+### Downloads
 
-##### NON-ROOT \ LEGACY
-* [NON-ROOT: Variant](https://github.com/PWN-Term/PWN-Term/releases/download/v2.2.3/2.2.3.apk)
+---
+
+#### NON-ROOT \ LEGACY
+* [NON-ROOT: Variant](https://github.com/PWN-Term/PWN-Term/releases/download/05.08.21/2.5.5-legacy.apk)
 * WHY: This release is here as this app is built with api level of 28 (Meaning exec* can be used), but - is that this app dosent use newest plugins that need api level greater than 30.
 * Tradeoffs?: Older app but apt repo is same with root variant
 
-##### Requirements
-* ARM64
-* Android sdk-26+ (android 8.0)
+#### PWN-Term 2.2.5 \ ROOT
+* Requires rooted phone and android 8+
+* [ROOT: Variant](https://github.com/PWN-Term/PWN-Term/releases/download/05.08.21/2.5.5.apk)
 
-##### Important
-* This release requires clean install, so backup needed stuff to /sdcard/somewhere and move back after install
-* This happened because i have used debug keys to make releases (This wont happen again, sorry)
-* Rooted users can overcome it by renaming /data/data/hilled.pwnterm to something else until new app is installed (And changing it back after new app install)
+#### PWN-X11
+* Compatible with 2.5.5 +
+* [RELEASE](https://github.com/PWN-Term/PWN-Term/releases/download/05.08.21/1.0.0-x11.apk)
 
-##### Notes!!!
-* In android Q+ you may need root perm to use "setenforce 0" (Only if terminal cant start up)
-* And restart the app fully (Force stop)
+#### PWN-OS
+* Beryllium (WIP): [PWN-OS / R](#)
 
-##### Changelog (App)
-* Added more themes
-* Added some new features to menu
-* Changes for UI
-* Fixed some UI problems
-* Changed some colors
-
-----
-
-### PWN-Term 2.2.2
-
-##### Downloads
-* [Mirror-2](https://anonfiles.com/N7o1b500uc/2.2.2_apk)
-
-##### Requirements
-* ARM64
-* Android sdk-26+ (android 8.0)
-
-##### Important
-* This release requires clean install, so backup needed stuff to /sdcard/somewhere and move back after install
-* This happened because i have used debug keys to make releases (This wont happen again, sorry)
-* Rooted users can overcome it by renaming /data/data/hilled.pwnterm to something else until new app is installed (And changing it back after new app install)
-
-##### Notes!!!
-* NEEDS CLEAN INSTALL (As debug keys changed)
-* In android Q+ you may need root perm to use "setenforce 0" (Only if terminal cant start up)
-* To apply update for older scripts (As app won't update these automatically), do the following
-rm -rf /data/data/hilled.pwnterm/files/home/.pwnterm/script/*
-* And restart the app fully (Force stop)
-
-##### Changelog (App)
-* Changes for UI
-* Fixed some UI problems
-* Changed some colors
-* More session menu changes
-
-----
+---
