@@ -22,7 +22,4 @@ title: Other
 * Using docker in android [HERE](https://pwn-term.github.io/other/docker/default.html)
 
 #### Sources
-* Exec() enabled rom(s) [HERE](https://pwn-term.github.io/other/exec-roms/default.html)
-
-#### Sources
 * Sources [HERE](https://pwn-term.github.io/other/sources/default.html)
