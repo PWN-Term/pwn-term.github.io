@@ -1,1 +1,4 @@
 remote_theme: PWN-Term/cayman-custom
+
+gems:
+- jekyll-seo-tag
