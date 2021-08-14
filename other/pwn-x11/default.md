@@ -12,15 +12,15 @@
 * Now open pwn-term and run this
 
 ```
-$ Apt install xfce4 xwayland
+$ Apt install xfce4 xorg-server
 ```
 
 * Now open two fresh tabs and run these cmd's in separate tabs
 
 ```
-$ export XDG_RUNTIME_DIR=/data/data/hilled.pwnterm/files/usr/tmp && Xwayland :1
+$ Xwayland :1
 
-$ env DISPLAY=:0 startxfce4
+$ env DISPLAY=:1 startxfce4
 ```
 
 *
