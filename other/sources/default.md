@@ -25,4 +25,4 @@ title: Sources (3-party)
 
 ### Deprecated PWN sources
 * MOD NetHunter: [Link](https://gitlab.com/pwn-hunter/nethunter/nethunter-app)
-* PWN-Apt (api-24): [Link](https://gitlab.com/pwn-hunter/apt-repository)
+* PWN-Apt (api-24): [Link](https://gitlab.com/Martinvlba/apt-repository)
