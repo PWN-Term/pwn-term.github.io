@@ -12,6 +12,9 @@ title: Other
 #### Gradle
 * Building apk with gradle [HERE](https://pwn-term.github.io/other/gradle-apk/default.html)
 
+#### EKS / Extra Keys
+* Changing extra keys layout [HERE](https://pwn-term.github.io/other/eks/default.html)
+
 #### PWN-OS
 * About / Installing [PWN-OS](https://pwn-term.github.io/other/pwn-os/default.html)
 

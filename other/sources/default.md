@@ -1,22 +1,28 @@
 ---
-title: Sources
+title: Sources (3-party)
 ---
 
-### PWN-Hunter sources
+### PWN-Term/Hunter sources
 * PWN-Term + X11: [Link](https://github.com/PWN-Term/PWN-Term)
-* MOD NetHunter: [Link](https://gitlab.com/pwn-hunter/nethunter/nethunter-app)
-* PWN-Apt: [Link](https://gitlab.com/pwn-hunter/apt-repository)
+* PWN-Apt (api-28): [Link](https://gitlab.com/pwn-hunter/apt-repository)
 * PWN-Packages (GitHub): [Sauce](https://github.com/pwn-term)
 * PWN-Packages (Gitlab): [Sauce](https://gitlab.com/pwn-hunter)
 
-### Sources and credits (3-party)
+### Other Sources
 * NeoTerm: [Link](https://github.com/NeoTerm/)
 * Termux packages: [Link](https://github.com/termux/)
 * Andrax (Some code of it is in pwn-term): [Link](https://gitlab.com/crk-mythical/andrax-hackers-platform-v5-2/)
 * PSF (Pentesting-Framework): [Link](https://github.com/abhackerofficial/pentesting-framework)
 * Termux-X11 (PWN-X11): [Link](https://github.com/termux/termux-x11)
 
-### Java
-* Java: [JDK11](https://play.google.com/store/apps/details?id=ru.iiec.jvdroid) and [JDK8](https://github.com/Hax4us/java)
-* Java: [JDK17 - Borrowed Commits](https://github.com/androidports)
-* Java / Mobile [JDK-17 src](https://github.com/PojavLauncherTeam/mobile)
+### Custom packages
+* suhan-paradka Packages: [Link](https://github.com/suhan-paradka)
+
+### Open-JDK related
+* JDK-11: [JDK-11](https://play.google.com/store/apps/details?id=ru.iiec.jvdroid)
+* JDK-8: [JDK-8](https://github.com/Hax4us/java)
+* JDK-17: [JDK-17](https://github.com/PWN-Term/PWN-Term/mobile)
+
+### Deprecated PWN sources
+* MOD NetHunter: [Link](https://gitlab.com/pwn-hunter/nethunter/nethunter-app)
+* PWN-Apt (api-24): [Link](https://gitlab.com/pwn-hunter/apt-repository)

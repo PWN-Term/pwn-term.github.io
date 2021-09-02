@@ -7,7 +7,8 @@ visible: true
 * Where and what have they done
 
 ### ImKiva / @Imkiva
-* For base app called Neo-Term
+* Terminal base: App called Neo-Term
+* Packages
 
 ### Andrax
 * For some reused code: Lost in un-authored commit
@@ -22,6 +23,9 @@ visible: true
 * PWN-Term startup logo
 * Rfetch
 * PSF-Tool
+
+### suhan paradkar / @wisest_wizard
+* Packages
 
 ### cyberknight777 / @cyberknight777
 * Wiki
