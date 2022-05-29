@@ -3,8 +3,6 @@ title: Installations
 ---
 
 ### Wiki of installing things
-#### Rootfs
-* Installing and setting up rootfs [HERE](https://pwn-term.github.io/installing/rootfs/default.html)
 
 #### Metasploit
 * Installing and setting up Metasploit [HERE](https://pwn-term.github.io/installing/metasploit/default.html)
