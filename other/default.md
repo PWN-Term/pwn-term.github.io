@@ -3,9 +3,6 @@ title: Other
 ---
 
 ### Wiki of installing things
-#### Nethunter
-* Nethunter related [HERE](https://pwn-term.github.io/other/nethunter/default.html)
-
 #### DEB Creation
 * Package creation [HERE](https://pwn-term.github.io/other/package-creation/default.html)
 
@@ -14,9 +11,6 @@ title: Other
 
 #### EKS / Extra Keys
 * Changing extra keys layout [HERE](https://pwn-term.github.io/other/eks/default.html)
-
-#### PWN-OS
-* About / Installing [PWN-OS](https://pwn-term.github.io/other/pwn-os/default.html)
 
 #### PWN-X11
 * Using / Installing [PWN-X11](https://pwn-term.github.io/other/pwn-x11/default.html)

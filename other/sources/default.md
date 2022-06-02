@@ -4,7 +4,7 @@ title: Sources (3-party)
 
 ### PWN-Term/Hunter sources
 * PWN-Term + X11: [Link](https://github.com/PWN-Term/PWN-Term)
-* PWN-Apt (api-28): [Link](https://gitlab.com/pwn-hunter/apt-repository)
+* PWN-Apt (api-28): [Link](https://git.it-kuny.ch/pwn-term/repo)
 * PWN-Packages (GitHub): [Sauce](https://github.com/pwn-term)
 * PWN-Packages (Gitlab): [Sauce](https://gitlab.com/pwn-hunter)
 
@@ -24,5 +24,4 @@ title: Sources (3-party)
 * JDK-17: [JDK-17](https://github.com/PWN-Term/PWN-Term/mobile)
 
 ### Deprecated PWN sources
-* MOD NetHunter: [Link](https://gitlab.com/pwn-hunter/nethunter/nethunter-app)
 * PWN-Apt (api-24): [Link](https://gitlab.com/Martinvlba/apt-repository)

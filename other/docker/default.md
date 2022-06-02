@@ -31,7 +31,7 @@ $ apt install docker
 $ clear && sudo bash
 ```
 
-### Running Alpine/arm64 as of example
+### Running Debian/arm64 as of example
 #### Starting dockerd
 * Make new session leave it open
 
@@ -42,12 +42,11 @@ $ dockerd
 * Or if you dont wanna have session open
 
 ```
-
 $ dockerd &>/dev/null &
 ```
 
 #### Pulling and starting session in docker
-* Pulling Alpine
+* Pulling Debian
 
 ```
 $ docker pull arm64v8/debian

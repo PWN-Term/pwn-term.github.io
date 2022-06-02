@@ -11,7 +11,7 @@ visible: true
 * Packages
 
 ### Andrax
-* For some reused code: Lost in un-authored commit
+* For some reused code: Lost in un-authored commit's
 
 ### Martin Valba / @hilledkinged | Owner
 * PWN-Term
